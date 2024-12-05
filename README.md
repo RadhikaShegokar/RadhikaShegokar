@@ -5,7 +5,7 @@
 
 
 -  **🌍 I live in Pune, Maharashtra**
--  ✉️ You can contact me at radhikashegokar123@gmailcom
+-  ✉️ You can contact me at **radhikashegokar123@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
