@@ -3,7 +3,6 @@
 <h3 align="center">I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design, and React.</h3>
 
 - About Me
-- <hr>
 - **🌍 I live in Pune, Maharashtra**
 
 - ✉️ You can contact me at **radhikashegokar123@gmailcom**
