@@ -1,10 +1,10 @@
-<h1>Radhika Shegokar</h1>
-<h1 >Software Developer</h1>
-<h3>I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design, and React.</h3>
+<h1 >Radhika Shegokar </h1>
+<h2>Software Developer</h2>
+<h3 >I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design, and React.</h3>
+<h4>About Me</h4>
+- ✉️ You can contact me at [radhikashegokar123@gmailcom](radhikashegokar123@gmailcom)
 
-<h4>About Me</h4> 
-- **🌍 I live in Pune, Maharashtra**
-- ✉️ You can contact me at **radhikashegokar123@gmailcom**
+-  **🌍 I live in Pune, Maharashtra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
